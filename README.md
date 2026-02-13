@@ -3,7 +3,7 @@
 Internship Project – 2026
 
 Overview
-This repository contains my internship report and project work on:
+This reporitory contains my internship report and project work on:
 - Molecular Docking studies
 - Molecular Dynamics Simulation
 - Next Generation Sequencing (NGS) data analysis
